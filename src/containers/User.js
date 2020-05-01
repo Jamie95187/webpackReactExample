@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import PizzaImage from '../components/PizzaImage/PizzaImage';
 
-class Pizza extends Component {
+class User extends Component {
   render () {
     return (
       <div>
